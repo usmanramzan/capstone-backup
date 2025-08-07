@@ -1,0 +1,56 @@
+--------------------------------------------------
+[20250807 06:54:49] Backup Report
+--------------------------------------------------
+Timestamp        : 20250807 06:54:49
+Backed Up Dir    : /dbdata
+Archive File     : /app/backups/incremental-20250807/backup_dbdata_20250807.tar.gz
+Archive Size     : 6.3M
+
+--------------------------------------------------
+[20250807 06:55:00] Backup Report
+--------------------------------------------------
+Timestamp        : 20250807 06:55:00
+Backed Up Dir    : /dbdata
+Archive File     : /app/backups/incremental-20250807/backup_dbdata_20250807.tar.gz
+Archive Size     : 6.3M
+
+--------------------------------------------------
+[20250807 06:56:00] Backup Report
+--------------------------------------------------
+Timestamp        : 20250807 06:56:00
+Backed Up Dir    : /dbdata
+Archive File     : /app/backups/incremental-20250807/backup_dbdata_20250807.tar.gz
+Archive Size     : 6.4M
+
+--------------------------------------------------
+[20250807 06:57:00] Backup Report
+--------------------------------------------------
+Timestamp        : 20250807 06:57:00
+Backed Up Dir    : /dbdata
+Archive File     : /app/backups/incremental-20250807/backup_dbdata_20250807.tar.gz
+Archive Size     : 6.4M
+
+--------------------------------------------------
+[20250807 06:58:00] Backup Report
+--------------------------------------------------
+Timestamp        : 20250807 06:58:00
+Backed Up Dir    : /dbdata
+Archive File     : /app/backups/incremental-20250807/backup_dbdata_20250807.tar.gz
+Archive Size     : 6.4M
+
+--------------------------------------------------
+[20250807 06:59:23] Backup Report
+--------------------------------------------------
+Timestamp        : 20250807 06:59:23
+Backed Up Dir    : /dbdata
+Archive File     : /app/backups/incremental-20250807/backup_dbdata_20250807.tar.gz
+Archive Size     : 6.4M
+
+--------------------------------------------------
+[20250807 07:34:30] Backup Report
+--------------------------------------------------
+Timestamp        : 20250807 07:34:30
+Backed Up Dir    : /dbdata
+Archive File     : /app/backups/incremental-20250807/backup_dbdata_20250807.tar.gz
+Archive Size     : 7.1M
+
